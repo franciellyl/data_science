@@ -7,7 +7,7 @@
 Aqui você encontra os meus projetos na área de Data Science.
 
 ### Projetos:
-- **Usando o Histograma para Data Science:** https://bityli.com/g4KFM
+- **Usando um Histograma para Data Science:** https://bityli.com/g4KFM
 
 
 ### Links:
