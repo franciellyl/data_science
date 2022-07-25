@@ -13,4 +13,3 @@ Aqui você encontra os meus projetos na área de Data Science.
 ### Links:
 - [LinkedIn](https://www.linkedin.com/in/franciellyelima/)
 - [Medium](https://franciellyelima.medium.com/)
-- <franciellyelima@gmail.com>
